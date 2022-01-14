@@ -1,0 +1,27 @@
+.ms_image-box {
+    position: relative
+}
+
+.ms_img {
+    width: 100%;
+    object-fit: cover;
+}
+
+.ms_button {
+    position: absolute;
+    font-size: 70px;
+    top: 350px;
+    color: #000;
+    background-color: rgba(0, 0, 0, 0.2);
+    border-radius: 50%;
+    height: 65px;
+    line-height: 65px;
+}
+
+.ms_previous {
+    left: 10px;
+}
+
+.ms_next {
+    right: 10px;
+}
